@@ -1,61 +1,7 @@
 # LeetcodeLearning
 My recent leetcode exercise set. Just upload the project online pretending lost from the local.):
 
-Project structure is as below.
+As for my decision to create such a large-range project, it all comes from a reinstalling of the OS and all of my files stored in the local had lost at all. Due to the painful lesson of the storage error, I have decided to put my important files online. Github is one of my storage rooms which mainly stores my source code of projects and learning execises such as this project about leetcode.
 
-│  .gitignore
-│  Leetcode.iml
-│  readme.md
-│  
-├─.idea
-│      .gitignore
-│      misc.xml
-│      modules.xml
-│      runConfigurations.xml
-│      uiDesigner.xml
-│      vcs.xml
-│      workspace.xml
-│      
-├─out
-│  └─production
-│      └─Leetcode
-│          ├─Arrays
-│          │      lc638.class
-│          │      
-│          ├─CharString
-│          │      kmp.class
-│          │      
-│          ├─Sort
-│          │      bubbleSort.class
-│          │      exam.class
-│          │      heapSort.class
-│          │      insertSort.class
-│          │      Main.class
-│          │      mergeSort.class
-│          │      quickSort.class
-│          │      selectSort.class
-│          │      shellSort.class
-│          │      
-│          └─StackQueue
-│                  PriorityStack.class
-│                  
-└─src
-    ├─Arrays
-    │      lc638.java
-    │      
-    ├─CharString
-    │      kmp.java
-    │      
-    ├─Sort
-    │      bubbleSort.java
-    │      exam.java
-    │      heapSort.java
-    │      insertSort.java
-    │      Main.java
-    │      mergeSort.java
-    │      quickSort.java
-    │      selectSort.java
-    │      shellSort.java
-    │      
-    └─StackQueue
-            PriorityStack.java
+**2021.10.26**
+The initial upload has contains arrays, sort, stackqueue and charstring parts.
